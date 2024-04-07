@@ -1,16 +1,16 @@
-# todolistapp
+# To do list app
 
-A new Flutter project.
+Trying to make my first app following a guide online 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Thinks i'm trying to accomplish with this app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- learn the base of flutter []
+- try to modify the app from the guide to suite more to my taste []
+- learn how to upload to the play store []
+- learn how to get a database from the android []
+- learn how to emulate android from windows []
+- Understanding new sintax and tools that i never used before []
