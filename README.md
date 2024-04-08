@@ -12,5 +12,5 @@ Thinks i'm trying to accomplish with this app
 - try to modify the app from the guide to suite more to my taste []
 - learn how to upload to the play store []
 - learn how to get a database from the android []
-- learn how to emulate android from windows []
+- learn how to emulate android from windows [X]
 - Understanding new sintax and tools that i never used before []
