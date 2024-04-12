@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyWidget());
+  runApp(const MyWidget());
 }
 
 class MyWidget extends StatelessWidget {
@@ -15,12 +15,12 @@ class MyWidget extends StatelessWidget {
           title: const Center(
             child: Text("To Do List"),
           ),
-          backgroundColor: Colors.deepPurple[800],
+          backgroundColor: Colors.deepPurple[500],
         ),
         body: const Center(
           child: Text("this is a try again"),
         ),
-        backgroundColor: Colors.grey[800],
+        backgroundColor: Colors.grey[500],
       ),
     );
   }
